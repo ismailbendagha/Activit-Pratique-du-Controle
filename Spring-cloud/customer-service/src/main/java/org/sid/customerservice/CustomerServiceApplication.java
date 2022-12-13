@@ -13,7 +13,6 @@ import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 public class CustomerServiceApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(CustomerServiceApplication.class, args);
 	}
 
