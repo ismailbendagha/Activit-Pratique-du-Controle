@@ -7,6 +7,7 @@ import {ValidationErrors} from "@angular/forms";
 @Injectable({
   providedIn: 'root'
 })
+
 export class ProductsService {
 
   private products!: Array<Product>;
