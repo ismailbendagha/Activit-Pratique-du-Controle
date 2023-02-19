@@ -133,9 +133,7 @@
 
 ## 11 New Customer 
 
-![image](https://user-images.githubusercontent.com/101510983/206924512-b94b94e8-3d18-4329-acfc-0e49cadc7a62.png)
-
-![image](https://user-images.githubusercontent.com/101510983/206924543-8c6cf554-0e5a-424b-894c-40341bc4bcaa.png)
+https://ibb.co/0FmzYZG
 
 
 ## 12 Show Bills  
